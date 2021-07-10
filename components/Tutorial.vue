@@ -10,8 +10,9 @@
     <div class="max-w-4xl mx-auto sm:px-6 lg:px-8">
       <a
         class="flex justify-center pt-8 sm:pt-0"
-        href="https://nuxtjs.org"
+        href="https://www.indomascot.com"
         target="_blank"
+        alt="Spesialis Pembuatan Kostum Badut Maskot"
       >
         <img src="/loader.png" />
       </a>
